@@ -42,7 +42,7 @@ export default NuxtAuthHandler({
     // @ts-expect-error You need to use .default here for it to work during SSR. May be fixed via Vite at some point
     GithubProvider.default({
       clientId: "93cafb5ec070f44dcfc8",
-      clientSecret: "aa360506fc8e5b16b17dba3c2f24942b71d832bc",
+      clientSecret: "6dca8360d7d893c1e653f6d5976eabc58d131cb2",
     }),
   ],
 
